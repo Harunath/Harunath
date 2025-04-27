@@ -88,9 +88,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harunath04&show_icons=true&theme=radical" alt="Harunath's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harunath&show_icons=true&theme=radical" alt="Harunath's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunath04&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harunath&theme=radical" alt="GitHub Streak"/>
 </p>
 
 
