@@ -89,8 +89,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harunath&show_icons=true&theme=radical" alt="Harunath's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=harunath&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Harunath&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
 
